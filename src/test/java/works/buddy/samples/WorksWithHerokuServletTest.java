@@ -21,7 +21,7 @@ public class WorksWithHerokuServletTest {
     private HttpServletRequest request;
 
     @Mock
-    private HttpServletResponse response
+    private HttpServletResponse response ;
 
     @Before
     public void setUp() throws Exception {
